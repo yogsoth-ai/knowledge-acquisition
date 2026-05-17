@@ -1,0 +1,3 @@
+knowledge-acquisition
+
+Research Knowledge Acquisition Engine — systematically acquires and organizes research knowledge across literature, patents, benchmarks, meta-analyses, and performance baselines via five autonomous campaigns.
