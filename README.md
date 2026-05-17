@@ -9,7 +9,7 @@
 
 *Systematic Research Knowledge Acquisition Engine for Academic Research*
 
-Knowledge Acquisition is not a literature search tool. It is a complete research intelligence pipeline. You provide a research intent — it surveys literature, mines patents, audits benchmarks, synthesizes cross-study evidence, and establishes SOTA baselines. Five autonomous campaigns, each a self-contained research activity domain with quantitative budget enforcement.
+**Knowledge Acquisition is not a literature search tool. It is a complete research intelligence pipeline. You provide a research intent — it surveys literature, mines patents, audits benchmarks, synthesizes cross-study evidence, and establishes SOTA baselines. Five autonomous campaigns, each a self-contained research activity domain with quantitative budget enforcement.**
 
 ---
 
